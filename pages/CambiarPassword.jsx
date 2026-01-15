@@ -1,4 +1,4 @@
-import AdminNav from "../components/adminNav"
+import AdminNav from "../components/AdminNav"
 import { useState, useEffect } from "react"
 import handleChangePassword from '../helpers/handleChangePassword'
 import useAuth from "../hooks/useAuth"
